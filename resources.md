@@ -1,16 +1,19 @@
-# GitHub Learning Lab
-An interactive tutorial that walks beginners through how to use GitHub features like repositories, branches, and pull requests.
-[Start Learning GitHub](https://lab.github.com/)
+# Useful Resources Sites
 
-## freeCodeCamp Software Development Curriculum
-A comprehensive learning platform that teaches full-stack software development through hands-on coding projects and certifications.
-[Visit freeCodeCamp](https://www.freecodecamp.org/)
+# cppreference.com
+A comprehensive and highly detailed online encyclopedia for the C++ standard library and language features.
+[Visit cppreference.com](https://en.cppreference.com/)
 
-## MDN Web Docs
-A resource for developers that provides detailed documentation on programming languages, APIs, and web development concepts.
-[Explore MDN Web Docs](https://developer.mozilla.org/)
+# SDL2 Wiki
+The official documentation and API reference for the Simple DirectMedia Layer library used in game development.
+[Visit the SDL2 Wiki](https://wiki.libsdl.org/SDL2/FrontPage)
 
-## The Pragmatic Programmer (Book)
-A book that teaches practical strategies and best practices for improving software development skills and problem-solving.
-[View Book on Amazon](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
+# WolframAlpha
+An online computational engine that is excellent for solving complex discrete math, linear algebra, and physics problems.
+[Visit WolframAlpha](https://www.wolframalpha.com/)
+
+# GeeksforGeeks - Data Structures
+A dependable learning platform that explains graph theory and common algorithms with practical code examples.
+[Visit GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/)
+
 
